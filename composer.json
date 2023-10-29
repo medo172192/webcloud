@@ -1,0 +1,19 @@
+{
+    "name": "medo172192/webcloud",
+    "description": "whatsapp controls",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Medo172192\\Webcloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed hesham",
+            "email": "ppick177@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
